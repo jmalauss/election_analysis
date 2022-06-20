@@ -2,11 +2,17 @@
 
 # Overview of Election Audit
 
+Purpose of the election analysis is well defined
+
 # Election Audit Results
+
+there is a bulleted list where each election outcome is addressed
 
 # Election-Audit Summary
 
-# Starter Code
+there is a statement to the election commission that explores how this script can be used for any election, with two exmaples for modifying the script.
+
+### Starter Code
 
 ```
 # -*- coding: UTF-8 -*-
@@ -175,7 +181,7 @@ with open(file_to_save, "w") as txt_file:
     txt_file.write(winning_candidate_summary)
 ```
 
-# Final Code
+### Final Code
 
 ```
 

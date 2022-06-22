@@ -16,6 +16,8 @@ We helped Seth and Tom with their initial request for election data. They have a
 
 ![Here is the outcome of the election](https://github.com/jmalauss/election_analysis/blob/main/election_results.txt)
 
+!(https://github.com/jmalauss/election_analysis/blob/main/election_results_snip.png)
+
 # Election-Audit Summary
 
 there is a statement to the election commission that explores how this script can be used for any election, with two exmaples for modifying the script.

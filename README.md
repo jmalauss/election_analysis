@@ -16,6 +16,16 @@ We helped Seth and Tom with their initial request for election data. They have a
 
 ![Here are the election results!](https://github.com/jmalauss/election_analysis/blob/main/election_results_snip.png)
 
+Here is a summary of the election results:
+
+- Total Votes were 369,711
+- There is a section for County Results
+- In the County Results section, each county's vote percentage and votes per county are displayed next to the county name
+- The county with the largest turnout (Denver) is displayed
+- Below the county results, are candidate results
+- Each candidate's vote percentage and votes per candidate are displayed next to the candidate's name
+- The winner is displayed last, along with their vote count and vote percentage
+
 # Election-Audit Summary
 
 there is a statement to the election commission that explores how this script can be used for any election, with two exmaples for modifying the script.

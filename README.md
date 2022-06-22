@@ -51,15 +51,15 @@ We helped Seth and Tom with their initial request for election data. They have a
 
 *Election Commission,
 
-    *Thank you for providing the opportunity to work on this project. For your information, this script is adaptable and can be used for future elections, regardless of the candidates or counties. Here are two examples:
+Thank you for providing the opportunity to work on this project. For your information, this script is adaptable and can be used for future elections, regardless of the candidates or counties. Here are two examples:
     
-    1. The election results file contains 3 columns. If you wanted to add a fourth column for "Political Party", we could adjust our code to display the following:
-            -  votes per political party
-            -  vote percentage for political party out of total votes
+1. The election results file contains 3 columns. If you wanted to add a fourth column for "Political Party", we could adjust our code to display the following:
+   -  votes per political party
+   -  vote percentage for political party out of total votes
             
 In order to make this adjustment, we would need to create additional variables to represent the additional column of data. In other words, we could create a list similar to "county_list" that contains the names of each political party. Additionally, we would create a dictionary similar to "county_dict" that contains the name of the political party as the KEY, and the votes per political party as the VALUE. 
         
-    2. 
+2. 
 
 ### Starter Code
 

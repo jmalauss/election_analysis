@@ -2,7 +2,13 @@
 
 # Overview of Election Audit
 
-Purpose of the election analysis is well defined
+### Purpose of the election analysis is well defined
+
+We helped Seth and Tom with their initial request for election data. They have asked for additional data:
+
+- The voter turnout per county
+- percentage of votes for each county, based on total vote count
+- county with the highest turnout
 
 # Election Audit Results
 

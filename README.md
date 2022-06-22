@@ -19,31 +19,31 @@ We helped Seth and Tom with their initial request for election data. They have a
 1. How many votes were cast in this congressional election?
     - There were 369,711 total votes case in this election.
 
-
+![total votes](https://github.com/jmalauss/election_analysis/blob/main/total_votes_cast.png)
 
 2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
     - **Jefferson** county had a turnout of 38,855 votes, resulting in 10.5% of the total votes cast.
     - **Denver** county had a turnout of 306,055 votes, resulting in 82.8% of the total votes cast.
     - **Arapahoe** county had a turnout of 24,801 votes, resulting in 6.7% of the total votes cast.
 
-
+![county breakdown](https://github.com/jmalauss/election_analysis/blob/main/county_votes_breakdown.png)
 
 3. Which county had the largest number of votes?
     - **Denver** county had the largest number of votes (306,055 out of 369,711)
 
-
+![largest turnout](https://github.com/jmalauss/election_analysis/blob/main/largest_turnout_county.png)
 
 4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
     - **Charles Casper Stockham** received 85,213 total votes, resulting in 23.0% of the total votes cast.
     - **Diana DeGette** received 272,892 total votes, resulting in 73.8% of the total votes cast.
     - **Raymon Anthony Doane** received 11,606 total votes, resulting in 3.1% of the total votes cast.
 
-
+![candidate breakdown](https://github.com/jmalauss/election_analysis/blob/main/candidates_breakdown.png)
 
 5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
     - **Diana Degette** won the election with a total of 272,892 total votes, which was 73.8% of the total votes cast. 
 
-
+![winner!](https://github.com/jmalauss/election_analysis/blob/main/winner.png)
 
 # Election-Audit Summary
 

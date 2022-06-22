@@ -49,7 +49,7 @@ We helped Seth and Tom with their initial request for election data. They have a
 
 ### There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
 
-*Election Commission,
+Election Commission,
 
 Thank you for providing the opportunity to work on this project. For your information, this script is adaptable and can be used for future elections, regardless of the candidates or counties. Here are two examples:
     
@@ -59,7 +59,11 @@ Thank you for providing the opportunity to work on this project. For your inform
             
 In order to make this adjustment, we would need to create additional variables to represent the additional column of data. In other words, we could create a list similar to "county_list" that contains the names of each political party. Additionally, we would create a dictionary similar to "county_dict" that contains the name of the political party as the KEY, and the votes per political party as the VALUE. 
         
-2. 
+2. If you wanted to understand the age of the voters, we could add a column for "Age" that corresponds with each Ballot ID. This would allow you to understand the following:
+   - Which age group had the most voters?
+   - What age group was most responsible for the winner of the election? (Which age group did the support come from?)
+
+There are a few different ways we can use the "Age" data to dive deeper into the election. One suggestion would be to create a conditional statement that loops through the data and counts each vote within a specific age group. For example, we can use a FOR loop and an IF statement. You can then store the VALUE (which would be the count of votes per age group) to the KEY (age group - age cohorts described by a range of ages, EX: "18 - 25") in a dictionary for easy reference and analysis. 
 
 ### Starter Code
 

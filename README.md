@@ -14,9 +14,7 @@ We helped Seth and Tom with their initial request for election data. They have a
 
 ### There is a bulleted list where each election outcome is addressed
 
-![Here is the outcome of the election](https://github.com/jmalauss/election_analysis/blob/main/election_results.txt)
-
-!(https://github.com/jmalauss/election_analysis/blob/main/election_results_snip.png)
+![Here are the election results!](https://github.com/jmalauss/election_analysis/blob/main/election_results_snip.png)
 
 # Election-Audit Summary
 

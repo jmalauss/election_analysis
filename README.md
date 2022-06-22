@@ -16,15 +16,16 @@ We helped Seth and Tom with their initial request for election data. They have a
 
 ![Here are the election results!](https://github.com/jmalauss/election_analysis/blob/main/election_results_snip.png)
 
-Here is a summary of the election results:
-
-- Total Votes were 369,711
-- There is a section for County Results
-- In the County Results section, each county's vote percentage and votes per county are displayed next to the county name
-- The county with the largest turnout (Denver) is displayed
-- Below the county results, are candidate results
-- Each candidate's vote percentage and votes per candidate are displayed next to the candidate's name
-- The winner is displayed last, along with their vote count and vote percentage
+1. How many votes were cast in this congressional election?
+    - There were 369,711 total votes case in this election.
+2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+    - **Jefferson** county had a turnout of 38,855 votes, resulting in 10.5% of the total votes cast.
+    - **Denver** county had a turnout of 306,055 votes, resulting in 82.8% of the total votes cast.
+    - **Arapahoe** county had a turnout of 24,801 votes, resulting in 6.7% of the total votes cast. 
+3. Which county had the largest number of votes?
+    - **Denver** county had the largest number of votes (306,055 out of 369,711)
+5. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+6. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 # Election-Audit Summary
 
